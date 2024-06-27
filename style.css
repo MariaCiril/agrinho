@@ -3,7 +3,7 @@
   padding: 0,3%;
 }
 
-background-color::part
+background-color:blul
     text-align: center;
     border: solid rgba(190, 19, 164, 0.801);
     font-size: 23px;
@@ -26,6 +26,7 @@ img{
     border: solid 5px ;
     padding: 5px;
     border-radius: 10px;
+
  }
      {
  :root {
