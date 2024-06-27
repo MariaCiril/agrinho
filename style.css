@@ -27,3 +27,12 @@ img{
     padding: 5px;
     border-radius: 10px;
  }
+     {
+ :root {
+    --verde-fundo: ;
+    --fonte-principal: "Lustria";
+    --verde-principal: ;
+    --azul-principal: ;
+    --verde-secundario: ;
+    --link: #0a4804;
+}
