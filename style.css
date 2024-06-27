@@ -2,12 +2,12 @@
   margin: 0,7%;
   padding: 0,3%;
 }
-
-background-color:blul
+body{background-color:red;
     text-align: center;
     border: solid rgba(190, 19, 164, 0.801);
-    font-size: 23px;
-}
+    font-size: 23px;}
+
+
 h1{
    color: rgba(23, 24, 24, 0.753);
     text-align: center;
