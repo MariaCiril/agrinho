@@ -1,34 +1,29 @@
 * {
-    margin: 0;
-    padding: 0;
-  }
-
-:root {
-  --verde-fundo: ;
-  --fonte-principal: "Lustria";
-  --verde-principal: ;
-  --azul-principal: ;
-  --verde-secundario: ;
-  --link: #0a4804;
+  margin: 0;
+  padding: 0;
 }
 
-body{
-
+background-color: rgba(231, 180, 11, 0.89);
+    text-align: center;
+    border: solid rgba(190, 19, 164, 0.801);
+    font-size: 23px;
 }
-
-/*Cabeçalho / Header */
-.cabecalho{
+h1{
+   color: rgba(23, 24, 24, 0.753);
+    text-align: center;
 
 }
 
-
-/*seções comuns ou seção 1*/
-.secao1{
-
+li{ 
+    text-align: left;
 }
 
 
-/*rodapé*/
-.rodape{
-
-}
+img{
+    display: block;
+    margin: auto;
+    width: 500px;
+    border: solid 5px ;
+    padding: 5px;
+    border-radius: 10px;
+ }
