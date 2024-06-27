@@ -2,12 +2,12 @@
   margin: 0,7%;
   padding: 0,3%;
 }
-body{background-color:rgb(243, 243, 58);
-    border: solid rgba(235, 156, 9, 0.925);
+body{
+    klbackground-color:rgb(243, 243, 58);
     text-align: center;
     border:solid rgba(190, 19, 164, 0.801);
-
-    font-size: 23px;}
+    font-size: 23px;
+}
 
 
 h1{
